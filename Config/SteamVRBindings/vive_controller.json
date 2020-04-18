@@ -25,18 +25,7 @@
 					{
 						"click":
 						{
-							"output": "/actions/main/in/Fire"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/grip",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/ResetVR"
+							"output": "/actions/main/in/PickupItem"
 						}
 					}
 				}
@@ -74,5 +63,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "First Person BP Game Template-11590370"
 }
